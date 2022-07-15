@@ -30,7 +30,9 @@
 21. align-content: flex-start;
 22. align-content: flex-end;
 23. flex-direction: column-reverse;
-    align-content: center; 
+    align-content: center;                                                  24. flex-flow:column-reverse wrap-reverse;
+                                                                                justify-content:center;
+                                                                                align-content:space-between;
 24. flex-flow:column-reverse wrap-reverse;
     justify-content:center;
     align-content:space-between;
